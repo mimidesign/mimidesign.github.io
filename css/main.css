@@ -1467,9 +1467,9 @@ img {
         .work .item-one,
         .work .item-two,
         .work .item-three,
-        .work .item-four,
+        .work .item-four, .item-five, .item-six,
         .contact .image-bg {
-            height: 800px;
+            height: 420px !important;
         }
         .about .text-wrapper {
             margin: 20px 150px;
