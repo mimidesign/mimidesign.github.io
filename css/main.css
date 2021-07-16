@@ -829,7 +829,7 @@ button:focus {
 }
 
 .contact .form-bg {
-    background: url('../img/back.jpg') no-repeat center center;
+    background: url('../img/footer.png') no-repeat center center;
     background-color: #1f1f1f;
     background-size: cover;
     height: 800px;
@@ -1065,7 +1065,6 @@ footer h4 {
 /* overlay at start */
 .mfp-fade.mfp-bg {
   opacity: 0;
-
   -webkit-transition: all 0.5s ease-out;
   -moz-transition: all 0.5s ease-out;
   transition: all 0.5s ease-out;
@@ -1575,4 +1574,12 @@ img {
         #form {
             padding: 200px 30px;
         }
+    }
+    
+    .ah-headline.loading-bar .ah-words-wrapper::after {
+            
+        background: #fff !important;
+    }
+    ::-webkit-input-placeholder {
+        color: #fff;
     }
