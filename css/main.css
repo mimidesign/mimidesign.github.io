@@ -475,6 +475,7 @@ button:focus {
     height: 100%;
     opacity: 0;
     transition: all 0.6s ease-in-out;
+    cursor: pointer;
 }
 
 .item-one .overlay:hover {
@@ -516,6 +517,7 @@ button:focus {
     background: #222;
     color: #ffffff;
     width: 100%;
+    cursor: pointer;
     height: 100%;
     opacity: 0;
     transition: all 0.6s ease-in-out;
@@ -563,6 +565,7 @@ button:focus {
     height: 100%;
     opacity: 0;
     transition: all 0.6s ease-in-out;
+    cursor: pointer;
 }
 
 .item-three .overlay:hover {
@@ -607,6 +610,7 @@ button:focus {
     height: 100%;
     opacity: 0;
     transition: all 0.6s ease-in-out;
+    cursor: pointer;
 }
 
 .item-four .overlay:hover {
@@ -651,6 +655,7 @@ button:focus {
     height: 100%;
     opacity: 0;
     transition: all 0.6s ease-in-out;
+    cursor: pointer;
 }
 
 .item-five .overlay:hover {
@@ -695,6 +700,7 @@ button:focus {
     height: 100%;
     opacity: 0;
     transition: all 0.6s ease-in-out;
+    cursor: pointer;
 }
 
 .item-six .overlay:hover {
