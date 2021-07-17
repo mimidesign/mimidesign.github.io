@@ -1591,13 +1591,14 @@ img {
         font-weight:lighter;
         font-size: 15pt;
         letter-spacing: 1pt;
+        font-family: 'Montserrat', sans-serif;
     }
     .services h4 span {
         color:#427586;
-        font-weight: 600;
+        font-weight: 500;
         font-size: 15pt;
         letter-spacing: 1pt;
-        font-family: 'Roboto', sans-serif;
+        font-family: 'Montserrat', sans-serif;
     }
     .services h3 {
         margin-top: 30px;
@@ -1642,12 +1643,13 @@ img {
             font-weight:lighter;
             font-size: 16pt;
             letter-spacing: 1pt;
+            font-family: 'Montserrat', sans-serif;
         }
         .services h4 span {
             color:#427586;
-            font-weight: 600;
+            font-weight: 500;
             font-size: 16pt;
             letter-spacing: 1pt;
-            font-family: 'Roboto', sans-serif;
+            font-family: 'Montserrat', sans-serif;
         }
     }
