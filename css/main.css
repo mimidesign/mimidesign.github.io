@@ -1589,19 +1589,19 @@ img {
     }
     .services h4 {
         font-weight:lighter;
-        font-size: 22px;
+        font-size: 15pt;
         letter-spacing: 1pt;
     }
     .services h4 span {
         color:#427586;
         font-weight: 600;
-        font-size: 17pt;
+        font-size: 15pt;
         letter-spacing: 1pt;
-        font-family: 'Roboto';
+        font-family: 'Roboto', sans-serif;
     }
     .services h3 {
         margin-top: 30px;
-        font-size: 16pt;
+        font-size: 15pt;
         font-weight: 700;
         letter-spacing: 3pt;
         color: #000000;
@@ -1619,16 +1619,35 @@ img {
     .services ul li {
         letter-spacing: 0.8pt;
         text-align: left;
-        margin-left: 115px;
+        margin-left: 90px;
         font-family: 'Roboto', sans-serif;
         font-weight: 300;
         color: #1e2024;
-        font-size: 14pt;
-        line-height: 22pt;
+        font-size: 11pt;
+        line-height: 20pt;
     }
     .services ul .location {
         margin-bottom: 10px;
         margin-top: -25px;
         font-size: 11pt;
     }
+    @media only screen and (min-width : 1920px) {
     
+        .services ul li {
+            font-size: 14pt;
+            line-height: 22pt;
+            margin-left: 115px;
+        }
+        .services h4 {
+            font-weight:lighter;
+            font-size: 16pt;
+            letter-spacing: 1pt;
+        }
+        .services h4 span {
+            color:#427586;
+            font-weight: 600;
+            font-size: 16pt;
+            letter-spacing: 1pt;
+            font-family: 'Roboto', sans-serif;
+        }
+    }
